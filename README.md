@@ -45,10 +45,17 @@ In general, we replace the ninth graders’ math and reading scores, which impro
       - Hernandez High School
       - Johnson High School
 
-#### Other Effect:
-  - Math and reading scores by grade
-  - Scores by school spending
-  - Scores by school size
-  - Scores by school type
+#### Other Effects:
+  - Math and reading scores by grade: 
+      - Math: https://github.com/FIRE-Phoebe/School_District_Analysis/blob/453c96862486983071094028e2e103c67848789b/Resources/update%20results/math_score.png
+      - Reading: https://github.com/FIRE-Phoebe/School_District_Analysis/blob/453c96862486983071094028e2e103c67848789b/Resources/update%20results/reading_score.png
+  - Scores by school spending:
+      - https://github.com/FIRE-Phoebe/School_District_Analysis/blob/453c96862486983071094028e2e103c67848789b/Resources/update%20results/spending_summary.png 
+  - Scores by school size:
+      - https://github.com/FIRE-Phoebe/School_District_Analysis/blob/453c96862486983071094028e2e103c67848789b/Resources/update%20results/size_summary.png
+  - Scores by school type:
+      - https://github.com/FIRE-Phoebe/School_District_Analysis/blob/453c96862486983071094028e2e103c67848789b/Resources/update%20results/type_summary.png
+
+
 ## Summary
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+We have updated all the dataset from schools_complte and students_complete, the math and reading scores for the ninth grade at Thomas High Schoolhave been replaced with NaNs.These changes affect school rankings, Thomas High School from botton three becomes the 2nd Top School. Thomas High School's perfomance has raised to a new level after changes. Also, its Overall Passing Rate has increased around 25%. Passing Math and Passing Reading rate also increase to a significant level. Comparing our analysis, scholl spending, school size, and school type might have relatively changes when we changing new datas.
