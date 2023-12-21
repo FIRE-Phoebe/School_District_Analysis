@@ -22,11 +22,11 @@ On our district summary, we can see that the original result has slightly differ
 On the school summary, we can see that the all the categories except the last three columns have the same result on both analysis. In the Thomas High School, it has a larger percentage differences on the categories:**% Passing Math**, **% Passing Reading**, and **% Overall Passing**. When we updated our analysis, the Overall Passing Rate for Math and Reading are raised up **25%**.
 
   - ```Original analysis table:```
-      <img src="Resources/results/school summary_THS_orig.png" wodth="1100" height="100">
+      <img src="Resources/results/school summary_THS_orig.png" width="1100" height="100">
 
 
   - ```Updated analysis table:```
-      <img src="Resources/update results/school summary_THS_updated.png" wodth="1100" height="100">
+      <img src="Resources/update results/school summary_THS_updated.png" width="1100" height="100">
 
 ### Effect from Changes
 In general, we replace the ninth graders’ math and reading scores, which improves Thomas High School’s performance. Although the top 1 school is still **Cabrera High School**, **Thomas High School** becomes the 2nd top school. Other schools will drop one rank from the orginal result.
